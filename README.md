@@ -8,8 +8,8 @@
 
 ### 🎯 Sobre Mí
 
-<p align="center" style="background: linear-gradient(45deg, #f8f9fa, #e9ecef); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  Diseñadora web apasionada por crear experiencias digitales impactantes. Me especializo en el desarrollo front-end, aunque no le temo al back-end cuando se necesita. Con cuatro años explorando el mundo del desarrollo web y dos años ejerciéndolo profesionalmente, me destaco por mi capacidad de aprendizaje rápido y adaptación a cualquier reto. Autodidacta por naturaleza, he construido mis habilidades por mi cuenta y actualmente combino trabajo y estudios para seguir creciendo profesionalmente.
+<p align="center">
+ Diseñadora web enfocada en crear experiencias digitales funcionales y atractivas. Especializada en front-end, pero con habilidades en back-end cuando es necesario. Con cuatro años explorando el desarrollo web y dos ejerciéndolo profesionalmente, me adapto rápido a cualquier reto. Autodidacta por naturaleza, sigo creciendo mientras trabajo y estudio.
 </p>
 
 ---
